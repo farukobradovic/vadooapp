@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vadooapp/static/css/main.f78b97cc.chunk.css",
-    "main.js": "/vadooapp/static/js/main.87503d26.chunk.js",
-    "main.js.map": "/vadooapp/static/js/main.87503d26.chunk.js.map",
+    "main.css": "/vadooapp/static/css/main.6d1780dd.chunk.css",
+    "main.js": "/vadooapp/static/js/main.2db971db.chunk.js",
+    "main.js.map": "/vadooapp/static/js/main.2db971db.chunk.js.map",
     "runtime~main.js": "/vadooapp/static/js/runtime~main.83215a63.js",
     "runtime~main.js.map": "/vadooapp/static/js/runtime~main.83215a63.js.map",
-    "static/js/2.8e1cabcc.chunk.js": "/vadooapp/static/js/2.8e1cabcc.chunk.js",
-    "static/js/2.8e1cabcc.chunk.js.map": "/vadooapp/static/js/2.8e1cabcc.chunk.js.map",
+    "static/js/2.b45189ed.chunk.js": "/vadooapp/static/js/2.b45189ed.chunk.js",
+    "static/js/2.b45189ed.chunk.js.map": "/vadooapp/static/js/2.b45189ed.chunk.js.map",
     "index.html": "/vadooapp/index.html",
-    "precache-manifest.8a81ace06cca747f88184a19f212f1b3.js": "/vadooapp/precache-manifest.8a81ace06cca747f88184a19f212f1b3.js",
+    "precache-manifest.24cfb392e969c2b118d9a2c4e3c6b01e.js": "/vadooapp/precache-manifest.24cfb392e969c2b118d9a2c4e3c6b01e.js",
     "service-worker.js": "/vadooapp/service-worker.js",
-    "static/css/main.f78b97cc.chunk.css.map": "/vadooapp/static/css/main.f78b97cc.chunk.css.map",
+    "static/css/main.6d1780dd.chunk.css.map": "/vadooapp/static/css/main.6d1780dd.chunk.css.map",
     "static/media/App.css": "/vadooapp/static/media/bg-main.9f989783.jpg"
   }
 }
