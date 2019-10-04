@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vadooapp/precache-manifest.5519560504de60996bd63a87bffca187.js"
+  "/vadooapp/precache-manifest.8a81ace06cca747f88184a19f212f1b3.js"
 );
 
 self.addEventListener('message', (event) => {

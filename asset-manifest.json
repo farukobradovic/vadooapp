@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vadooapp/static/css/main.e21475ea.chunk.css",
+    "main.css": "/vadooapp/static/css/main.f78b97cc.chunk.css",
     "main.js": "/vadooapp/static/js/main.87503d26.chunk.js",
     "main.js.map": "/vadooapp/static/js/main.87503d26.chunk.js.map",
     "runtime~main.js": "/vadooapp/static/js/runtime~main.83215a63.js",
@@ -8,9 +8,9 @@
     "static/js/2.8e1cabcc.chunk.js": "/vadooapp/static/js/2.8e1cabcc.chunk.js",
     "static/js/2.8e1cabcc.chunk.js.map": "/vadooapp/static/js/2.8e1cabcc.chunk.js.map",
     "index.html": "/vadooapp/index.html",
-    "precache-manifest.5519560504de60996bd63a87bffca187.js": "/vadooapp/precache-manifest.5519560504de60996bd63a87bffca187.js",
+    "precache-manifest.8a81ace06cca747f88184a19f212f1b3.js": "/vadooapp/precache-manifest.8a81ace06cca747f88184a19f212f1b3.js",
     "service-worker.js": "/vadooapp/service-worker.js",
-    "static/css/main.e21475ea.chunk.css.map": "/vadooapp/static/css/main.e21475ea.chunk.css.map",
+    "static/css/main.f78b97cc.chunk.css.map": "/vadooapp/static/css/main.f78b97cc.chunk.css.map",
     "static/media/App.css": "/vadooapp/static/media/bg-main.9f989783.jpg"
   }
 }
