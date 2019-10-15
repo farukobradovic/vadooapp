@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0feac0bec6ce7e1c9ab0aa902699fe6",
+    "revision": "9c79a5031363f6789961d7592fbf583e",
     "url": "/vadooapp/index.html"
   },
   {
-    "revision": "d0f09b157eb977098328",
+    "revision": "8a119c9075d3f9a4cb4f",
     "url": "/vadooapp/static/css/main.6d1780dd.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vadooapp/static/js/2.b45189ed.chunk.js"
   },
   {
-    "revision": "d0f09b157eb977098328",
-    "url": "/vadooapp/static/js/main.2db971db.chunk.js"
+    "revision": "8a119c9075d3f9a4cb4f",
+    "url": "/vadooapp/static/js/main.413c1224.chunk.js"
   },
   {
     "revision": "6918abb459bec134dcad",
